@@ -23,8 +23,7 @@ author:
   # Biographic information
   avatar           : "David Hong Yang glo.jpeg"
   name             : "David Yang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  location         : "New York, USA"
   employer         : "Rensselaer Polytechnic Institute"
   uri              : # URL
   email            : "yangd13@rpi.edu" 
