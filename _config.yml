@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "David Yang's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "David Yang"
 description              : &description "personal description"
 url                      : https://davidhy514.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,23 +22,22 @@ repository               : "Davidhy514/davidhy514.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "David Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Rensselaer Polytechnic Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yangd13@rpi.edu" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=qbkNeWoAAAAJ&hl"
 
   # Repositories and software development
   github           : "Davidhy514"
 
   # Social media
-  linkedin         : # Username
-  twitter          : # Username for X / Twitter
+  linkedin         : david-yang-1986b8b1
+  twitter          : davambyyy
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
